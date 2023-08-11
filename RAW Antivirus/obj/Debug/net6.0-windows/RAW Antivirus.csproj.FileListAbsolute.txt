@@ -1,0 +1,46 @@
+C:\Users\Rahul Haldar\Desktop\RAW Antivirus\RAW Antivirus\bin\Debug\net6.0-windows\RAW Antivirus.exe
+C:\Users\Rahul Haldar\Desktop\RAW Antivirus\RAW Antivirus\bin\Debug\net6.0-windows\RAW Antivirus.deps.json
+C:\Users\Rahul Haldar\Desktop\RAW Antivirus\RAW Antivirus\bin\Debug\net6.0-windows\RAW Antivirus.runtimeconfig.json
+C:\Users\Rahul Haldar\Desktop\RAW Antivirus\RAW Antivirus\bin\Debug\net6.0-windows\RAW Antivirus.dll
+C:\Users\Rahul Haldar\Desktop\RAW Antivirus\RAW Antivirus\bin\Debug\net6.0-windows\RAW Antivirus.pdb
+C:\Users\Rahul Haldar\Desktop\RAW Antivirus\RAW Antivirus\bin\Debug\net6.0-windows\Guna.UI2.dll
+C:\Users\Rahul Haldar\Desktop\RAW Antivirus\RAW Antivirus\bin\Debug\net6.0-windows\System.Management.dll
+C:\Users\Rahul Haldar\Desktop\RAW Antivirus\RAW Antivirus\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+C:\Users\Rahul Haldar\Desktop\RAW Antivirus\RAW Antivirus\obj\Debug\net6.0-windows\RAW Antivirus.csproj.AssemblyReference.cache
+C:\Users\Rahul Haldar\Desktop\RAW Antivirus\RAW Antivirus\obj\Debug\net6.0-windows\RAW_Antivirus.Form1.resources
+C:\Users\Rahul Haldar\Desktop\RAW Antivirus\RAW Antivirus\obj\Debug\net6.0-windows\RAW Antivirus.csproj.GenerateResource.cache
+C:\Users\Rahul Haldar\Desktop\RAW Antivirus\RAW Antivirus\obj\Debug\net6.0-windows\RAW Antivirus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rahul Haldar\Desktop\RAW Antivirus\RAW Antivirus\obj\Debug\net6.0-windows\RAW Antivirus.AssemblyInfoInputs.cache
+C:\Users\Rahul Haldar\Desktop\RAW Antivirus\RAW Antivirus\obj\Debug\net6.0-windows\RAW Antivirus.AssemblyInfo.cs
+C:\Users\Rahul Haldar\Desktop\RAW Antivirus\RAW Antivirus\obj\Debug\net6.0-windows\RAW Antivirus.csproj.CoreCompileInputs.cache
+C:\Users\Rahul Haldar\Desktop\RAW Antivirus\RAW Antivirus\obj\Debug\net6.0-windows\RAW Antivirus.csproj.CopyComplete
+C:\Users\Rahul Haldar\Desktop\RAW Antivirus\RAW Antivirus\obj\Debug\net6.0-windows\RAW Antivirus.dll
+C:\Users\Rahul Haldar\Desktop\RAW Antivirus\RAW Antivirus\obj\Debug\net6.0-windows\refint\RAW Antivirus.dll
+C:\Users\Rahul Haldar\Desktop\RAW Antivirus\RAW Antivirus\obj\Debug\net6.0-windows\RAW Antivirus.pdb
+C:\Users\Rahul Haldar\Desktop\RAW Antivirus\RAW Antivirus\obj\Debug\net6.0-windows\RAW Antivirus.genruntimeconfig.cache
+C:\Users\Rahul Haldar\Desktop\RAW Antivirus\RAW Antivirus\obj\Debug\net6.0-windows\ref\RAW Antivirus.dll
+C:\Users\Rahul Haldar\Desktop\RAW Antivirus\RAW Antivirus\obj\Debug\net6.0-windows\RAW_Antivirus.Loading.resources
+C:\Users\Rahul Haldar\Desktop\RAW Antivirus\RAW Antivirus\obj\Debug\net6.0-windows\RAW_Antivirus.Properties.Resources.resources
+C:\Users\Rahul Haldar\Desktop\Projects\RAW Antivirus\RAW Antivirus\bin\Debug\net6.0-windows\RAW Antivirus.exe
+C:\Users\Rahul Haldar\Desktop\Projects\RAW Antivirus\RAW Antivirus\bin\Debug\net6.0-windows\RAW Antivirus.deps.json
+C:\Users\Rahul Haldar\Desktop\Projects\RAW Antivirus\RAW Antivirus\bin\Debug\net6.0-windows\RAW Antivirus.runtimeconfig.json
+C:\Users\Rahul Haldar\Desktop\Projects\RAW Antivirus\RAW Antivirus\bin\Debug\net6.0-windows\RAW Antivirus.dll
+C:\Users\Rahul Haldar\Desktop\Projects\RAW Antivirus\RAW Antivirus\bin\Debug\net6.0-windows\RAW Antivirus.pdb
+C:\Users\Rahul Haldar\Desktop\Projects\RAW Antivirus\RAW Antivirus\bin\Debug\net6.0-windows\Guna.UI2.dll
+C:\Users\Rahul Haldar\Desktop\Projects\RAW Antivirus\RAW Antivirus\bin\Debug\net6.0-windows\System.Management.dll
+C:\Users\Rahul Haldar\Desktop\Projects\RAW Antivirus\RAW Antivirus\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+C:\Users\Rahul Haldar\Desktop\Projects\RAW Antivirus\RAW Antivirus\obj\Debug\net6.0-windows\RAW Antivirus.csproj.AssemblyReference.cache
+C:\Users\Rahul Haldar\Desktop\Projects\RAW Antivirus\RAW Antivirus\obj\Debug\net6.0-windows\RAW_Antivirus.Form1.resources
+C:\Users\Rahul Haldar\Desktop\Projects\RAW Antivirus\RAW Antivirus\obj\Debug\net6.0-windows\RAW_Antivirus.Loading.resources
+C:\Users\Rahul Haldar\Desktop\Projects\RAW Antivirus\RAW Antivirus\obj\Debug\net6.0-windows\RAW_Antivirus.Properties.Resources.resources
+C:\Users\Rahul Haldar\Desktop\Projects\RAW Antivirus\RAW Antivirus\obj\Debug\net6.0-windows\RAW Antivirus.csproj.GenerateResource.cache
+C:\Users\Rahul Haldar\Desktop\Projects\RAW Antivirus\RAW Antivirus\obj\Debug\net6.0-windows\RAW Antivirus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rahul Haldar\Desktop\Projects\RAW Antivirus\RAW Antivirus\obj\Debug\net6.0-windows\RAW Antivirus.AssemblyInfoInputs.cache
+C:\Users\Rahul Haldar\Desktop\Projects\RAW Antivirus\RAW Antivirus\obj\Debug\net6.0-windows\RAW Antivirus.AssemblyInfo.cs
+C:\Users\Rahul Haldar\Desktop\Projects\RAW Antivirus\RAW Antivirus\obj\Debug\net6.0-windows\RAW Antivirus.csproj.CoreCompileInputs.cache
+C:\Users\Rahul Haldar\Desktop\Projects\RAW Antivirus\RAW Antivirus\obj\Debug\net6.0-windows\RAW Antivirus.csproj.CopyComplete
+C:\Users\Rahul Haldar\Desktop\Projects\RAW Antivirus\RAW Antivirus\obj\Debug\net6.0-windows\RAW Antivirus.dll
+C:\Users\Rahul Haldar\Desktop\Projects\RAW Antivirus\RAW Antivirus\obj\Debug\net6.0-windows\refint\RAW Antivirus.dll
+C:\Users\Rahul Haldar\Desktop\Projects\RAW Antivirus\RAW Antivirus\obj\Debug\net6.0-windows\RAW Antivirus.pdb
+C:\Users\Rahul Haldar\Desktop\Projects\RAW Antivirus\RAW Antivirus\obj\Debug\net6.0-windows\RAW Antivirus.genruntimeconfig.cache
+C:\Users\Rahul Haldar\Desktop\Projects\RAW Antivirus\RAW Antivirus\obj\Debug\net6.0-windows\ref\RAW Antivirus.dll

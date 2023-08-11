@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "TbRvEVjhjphvw29K06/6i+Z3gtIG657yFSAwhAHJlJxGK9sradzjsFi6NMyg0n6RybNv012VTSepDwuet9PYJA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Rahul Haldar\\Desktop\\Projects\\RAW Antivirus\\RAW Antivirus\\RAW Antivirus.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rahul Haldar\\.nuget\\packages\\guna.ui2.winforms\\2.0.4.4\\guna.ui2.winforms.2.0.4.4.nupkg.sha512",
+    "C:\\Users\\Rahul Haldar\\.nuget\\packages\\system.codedom\\6.0.0\\system.codedom.6.0.0.nupkg.sha512",
+    "C:\\Users\\Rahul Haldar\\.nuget\\packages\\system.management\\6.0.0\\system.management.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
